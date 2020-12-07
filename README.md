@@ -1,5 +1,5 @@
 # IVMM
-Implement of IVMM map matching method. Issues are welcome.
+Implement of IVMM map matching method.
 
 Please refer to the paper for details of the method: @inproceedings{yuan2010interactive,
   title={An interactive-voting based map matching algorithm},
@@ -9,3 +9,5 @@ Please refer to the paper for details of the method: @inproceedings{yuan2010inte
   year={2010},
   organization={IEEE}
 }
+
+Issues are welcome.
