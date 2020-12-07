@@ -2,6 +2,11 @@
 Implement of IVMM map matching method.
 
 ## Getting Start
+
+### Usage
+Run `s1`, `s2`, `s3` in turn.
+
+### Input and Output
 **Input file (.csv) sample**:<br />
 
 | plate | color | longitude | latitude | timestamp | velocity | status |
