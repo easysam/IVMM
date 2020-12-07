@@ -31,15 +31,5 @@ def haversine_np(lon1, lat1, lon2, lat2, miles=False):
 
 
 if __name__ == '__main__':
-    print('bottom left and bottom right: ', haversine_np(113.764635, 22.454727, 114.608972, 22.454727))
-    # distance between bottom left and bottom right is: 86.76759310492864 KM
-    print('top left and top right: ', haversine_np(113.764635, 22.842654, 114.608972, 22.842654))
-    # distance between top left and top right is: 86.5228084907369 KM
-    # difference is 224 M
-
-    print('top left and bottom left: ', haversine_np(113.764635, 22.454727, 113.764635, 22.842654))
-    # distance between top left and bottom left is 43.13551430844383 KM
-
     print(haversine_np([np.nan, 113.961098], [np.nan, 22.553101], [113.962997, 113.962303], [22.547001, 22.547001]))
     print(haversine_np(114.007401,22.535500, 114.0090009,22.53423323))
-    print(haversine_np(114.0090009, 22.53423323,  114.042, 22.5312))
