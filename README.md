@@ -18,6 +18,10 @@ Implement of IVMM map matching method.
 |1|1419978.0|72794|0|0.07|113.9623|22.5470|False|140.21|2528898679|2528898707|粤123456|113.962303|22.547001|2014-07-03 00:01:48|21|689.48|
 |2|1419997.0|72795|0|0.41|113.9629|22.5470|False|127.939|2528898679|2528898834|粤123456|113.962997|22.547001|2014-07-03 00:02:18|0|71.27|
 
+## Developer
+Issues are welcome.
+
+## Reference
 Please refer to the paper for details of the method: @inproceedings{yuan2010interactive,
   title={An interactive-voting based map matching algorithm},
   author={Yuan, Jing and Zheng, Yu and Zhang, Chengyang and Xie, Xing and Sun, Guang-Zhong},
@@ -26,5 +30,3 @@ Please refer to the paper for details of the method: @inproceedings{yuan2010inte
   year={2010},
   organization={IEEE}
 }
-
-Issues are welcome.
